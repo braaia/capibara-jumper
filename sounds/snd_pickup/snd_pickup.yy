@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"jump",
+  "%Name":"snd_pickup",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.23,
+  "duration":0.36,
   "exportDir":"",
-  "name":"jump",
+  "name":"snd_pickup",
   "parent":{
     "name":"Sfx",
     "path":"folders/Sfx.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"jump.wav",
+  "soundFile":"snd_pickup.wav",
   "volume":1.0,
 }

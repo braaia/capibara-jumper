@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"bip",
+  "%Name":"snd_bip",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":0.01,
   "exportDir":"",
-  "name":"bip",
+  "name":"snd_bip",
   "parent":{
     "name":"Sfx",
     "path":"folders/Sfx.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"bip.wav",
-  "volume":1.0,
+  "soundFile":"snd_bip.wav",
+  "volume":0.39,
 }

@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"obj_plat_hz_1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_plat_hz_1","path":"objects/obj_plat_hz_1/obj_plat_hz_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_player",
+  "name":"obj_plat_hz_1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"capi",
-    "path":"sprites/capi/capi.yy",
+    "name":"spr_plat_horiz_1",
+    "path":"sprites/spr_plat_horiz_1/spr_plat_horiz_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
